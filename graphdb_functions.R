@@ -4,3 +4,10 @@
 ## http://hack-r.com 
 ## http://hack-r.github.io
 ## http://github.com/hack-r
+
+
+# Packages ----------------------------------------------------------------
+require(RNeo4j) 
+require(tm)
+require(tm.plugin.webmining)
+
