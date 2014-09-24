@@ -9,7 +9,6 @@
 # Source Libraries/Functions ----------------------------------------------
 source("graphdb_functions.R")
 
-
 # Scrape Example Data from the Web ----------------------------------------
 
 # LifeVantage is the maker of Nrf2-activating (antioxidant)
